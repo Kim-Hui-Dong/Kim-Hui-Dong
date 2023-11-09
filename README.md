@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## 안녕하세요. ai학부생 김희동의 깃허브입니다. 이것은 연습용 업로드입니다.
+
 <!--
 **Kim-Hui-Dong/Kim-Hui-Dong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
